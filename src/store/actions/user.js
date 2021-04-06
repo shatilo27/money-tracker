@@ -1,0 +1,9 @@
+export const USER_LOGIN = 'USER_LOGIN';
+export const USER_LOGOUT = 'USER_LOGOUT';
+export const USER_DATA = 'USER_DATA';
+export const USER_INIT_DATA = 'USER_INIT_DATA';
+export const ADD_WALLET = 'ADD_WALLET';
+export const EDIT_WALLET = 'EDIT_WALLET';
+export const REMOVE_WALLET = 'REMOVE_WALLET';
+export const ADD_INCOME = 'ADD_INCOME';
+export const ADD_EXPENSES = 'ADD_EXPENSES';
